@@ -1,5 +1,5 @@
 {
-  "name": "YtdlProject",
+  "name": "YouTube",
   "version": "1.0.0",
   "description": "",
   "main": "index.cjs",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "ArYAN",
   "license": "ISC",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.3",
