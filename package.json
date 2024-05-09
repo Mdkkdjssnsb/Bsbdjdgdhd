@@ -1,5 +1,5 @@
 {
-  "name": "YouTube",
+  "name": "YOUTUBE",
   "version": "1.0.0",
   "description": "",
   "main": "index.cjs",
@@ -12,6 +12,7 @@
   "dependencies": {
     "@distube/ytdl-core": "^4.13.3",
     "@types/node": "^18.0.6",
+    "axios": "^1.6.8",
     "express": "^4.19.2",
     "fs-extra": "^11.2.0"
   }
